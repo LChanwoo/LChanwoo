@@ -1,5 +1,5 @@
 ### 안녕하세요 👋
-<h1 style="background-color:red;">test</h1>
+저는 현재 ~~~ 를 공부하고 있습니다.
 
 <!--
 **LChanwoo/LChanwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
