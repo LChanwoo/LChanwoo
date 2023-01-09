@@ -1,5 +1,5 @@
 ### 안녕하세요 👋
-저는 현재 ~~~ 를 공부하고 있습니다.
+저는 현재 expressjs, Nestjs, Nextjs, typeorm, Springboot를 공부하고 있습니다.
 
 <!--
 **LChanwoo/LChanwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
