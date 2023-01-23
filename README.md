@@ -5,6 +5,9 @@
 
 ---
 <img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-green?style=for-the-badge&logo=CSS3&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 
 
 <!--
