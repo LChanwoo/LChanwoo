@@ -23,7 +23,13 @@
   <img src="https://img.shields.io/badge/NestJs-black?style=flat&logo=NestJs&logoColor=red"/>
   <img src="https://img.shields.io/badge/Express.js-yellow?style=flat&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=Spring Boot&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/> -->
+</div>
+<div>
+  <img src="https://img.shields.io/badge/PM2-black?style=flat&logo=PM2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-black?style=flat&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-black?style=flat&logo=Axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-black?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-black?style=flat&logo=npm&logoColor=white"/>
 </div>
 <!--
 **LChanwoo/LChanwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
