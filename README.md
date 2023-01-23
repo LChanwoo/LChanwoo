@@ -6,11 +6,11 @@
 ---
 ### Stack
 <div style="display:flex; align-items:center; justify-content:center; width:100%">
-  <img src="https://img.shields.io/badge/nodejs-green?style=flat&logo=Node.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=CSS3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/nodejs-green?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white"/>
 </div>
 <div style="display:flex; align-items:center; justify-content:center;">
   <img src="https://img.shields.io/badge/react-blue?style=flat&logo=react&logoColor=white"/>
