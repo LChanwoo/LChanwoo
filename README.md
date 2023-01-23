@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/npm-black?style=flat&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Axios-black?style=flat&logo=Axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-black?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazone AWS-black?style=flat&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazone EC2-black?style=flat&logo=Amazon EC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-black?style=flat&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon EC2-black?style=flat&logo=Amazon EC2&logoColor=white"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/>
