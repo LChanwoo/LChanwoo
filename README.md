@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LChanwoo&layout=compact&theme=monokai)
 
 ---
-<div style="display:flex; align-items:center;">
+<div style="display:flex; align-items:center; justify-content:center;">
 <img src="https://img.shields.io/badge/nodejs-green?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=CSS3&logoColor=black"/>
