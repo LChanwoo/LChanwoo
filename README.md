@@ -35,6 +35,7 @@
 <div>
   <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-black?style=flat&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-black?style=flat&logo=Telegram&logoColor=white"/>
 </div>
 <!--
 **LChanwoo/LChanwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
