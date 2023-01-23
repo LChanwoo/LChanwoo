@@ -4,18 +4,24 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LChanwoo&layout=compact&theme=monokai)
 
 ---
-### Language
+### Stack
 <div style="display:flex; align-items:center; justify-content:center; width:100%">
-  <img src="https://img.shields.io/badge/nodejs-green?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodejs-green?style=flat&logo=Node.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=CSS3&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black"/>
 </div>
 <div style="display:flex; align-items:center; justify-content:center;">
-  <img src="https://img.shields.io/badge/nodejs-green?style=flat&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=CSS3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/react-blue?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-Yellow?style=flat&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
+</div>
+<div style="display:flex; align-items:center; justify-content:center;">
+  <img src="https://img.shields.io/badge/NestJs-black?style=flat&logo=NestJs&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Next.js-Yellow?style=flat&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
 </div>
 <!--
 **LChanwoo/LChanwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
