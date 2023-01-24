@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 
 <h3 align="center"> 안녕하세요 👋 </h3>
-<p align="center> 개발자 이찬우입니다!</p>
+<p align="center"> 개발자 이찬우입니다!</p>
 
 
 
 ---
 
-<h3 align="center"> Stack </h3>
+<h3 align="center"> 기술 Stack </h3>
+
 <div align="center">
   <img src="https://img.shields.io/badge/nodejs-green?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/>
@@ -16,17 +17,20 @@
   <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-Purple?style=flat&logo=Java&logoColor=white"/>
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/react-blue?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-yellow?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCss-blue?style=flat&logo=Tailwind CSS&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/> -->
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/NestJs-black?style=flat&logo=NestJs&logoColor=red"/>
   <img src="https://img.shields.io/badge/Express.js-yellow?style=flat&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=Spring Boot&logoColor=white"/>
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/PM2-black?style=flat&logo=PM2&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-black?style=flat&logo=npm&logoColor=white"/>
@@ -35,9 +39,11 @@
   <img src="https://img.shields.io/badge/Amazon AWS-black?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon EC2-black?style=flat&logo=Amazon EC2&logoColor=white"/>
 </div>
+<h5 align="center"> 협업툴 </h5>
 <div align="center">
   <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-black?style=flat&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram-black?style=flat&logo=Telegram&logoColor=white"/>
 </div>
 
