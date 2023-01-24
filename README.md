@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 ### 안녕하세요 👋
 저는 현재 expressjs, Nestjs, Nextjs, typeorm, Springboot를 공부하고 있습니다.
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LChanwoo&show_icons=true&theme=monokai)
