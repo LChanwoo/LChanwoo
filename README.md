@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-Purple?style=flat&logo=Java&logoColor=white"/>
-  {: .text-center }
 </div>
 <div style="display:flex; align-items:center; justify-content:center;">
   <img src="https://img.shields.io/badge/react-blue?style=flat&logo=react&logoColor=white"/>
