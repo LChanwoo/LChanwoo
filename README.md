@@ -17,20 +17,20 @@
   <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-Purple?style=flat&logo=Java&logoColor=white"/>
 </div>
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/react-blue?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-yellow?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCss-blue?style=flat&logo=Tailwind CSS&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/> -->
 </div>
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/NestJs-black?style=flat&logo=NestJs&logoColor=red"/>
   <img src="https://img.shields.io/badge/Express.js-yellow?style=flat&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=Spring Boot&logoColor=white"/>
 </div>
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/PM2-black?style=flat&logo=PM2&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-black?style=flat&logo=npm&logoColor=white"/>
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-black?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon EC2-black?style=flat&logo=Amazon EC2&logoColor=white"/>
 </div>
+<br>
 <h5 align="center"> 협업툴 </h5>
 <div align="center">
   <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/>
