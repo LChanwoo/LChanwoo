@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90&desc=Hello%20I'm%20Aldrich%20Lee&descAlign=60&descAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90&desc=Hello%20I'm%20Aldrich%20Lee&descAlign=60&descAlignY=20&fontAlignY=40)
 
 <h3 align="center"> 안녕하세요 👋 </h3>
 <p align="center"> 개발자 이찬우입니다!</p>
@@ -84,4 +84,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=Thank%20you&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Thank%20you&fontSize=60)
