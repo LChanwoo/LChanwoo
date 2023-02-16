@@ -41,6 +41,7 @@
 <br>
 <h5 align="center"> 협업툴 </h5>
 <div align="center">
+  <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-black?style=flat&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=Figma&logoColor=white"/>
