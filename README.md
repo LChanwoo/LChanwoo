@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/NestJs-black?style=flat&logo=NestJs&logoColor=red"/>
   <img src="https://img.shields.io/badge/Express.js-yellow?style=flat&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=Spring Boot&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=PostgreSQL&logoColor=white"/>
 </div>
 <br>
 <div align="center">
@@ -38,7 +42,11 @@
   <img src="https://img.shields.io/badge/Amazon AWS-black?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon EC2-black?style=flat&logo=Amazon EC2&logoColor=white"/>
 </div>
-<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.ENV-black?style=flat&logo=.ENV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger&logoColor=white"/>
+</div>
 <h5 align="center"> 협업툴 </h5>
 <div align="center">
   <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white"/>
