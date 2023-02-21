@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/.ENV-black?style=flat&logo=.ENV&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-black?style=flat&logo=Ubuntu&logoColor=white"/>
 </div>
 <h5 align="center"> 협업툴 </h5>
 <div align="center">
