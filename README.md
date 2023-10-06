@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90&desc=Hello%20I'm%20Aldrich%20Lee&descAlign=60&descAlignY=20&fontAlignY=40)
 
 <h3 align="center"> 안녕하세요 👋 </h3>
-<p align="center"> 논리적인 개발을 사랑하는 개발자 이찬우입니다!</p>
+<h2 align="center"> 논리적인 개발을 사랑하는 개발자 이찬우입니다!</h2>
 <p align="center"> 저는 코드부터 시스템 아키텍처까지, 소프트웨어 개발의 모든 측면에 깊이 몰두하며</p>
 <p align="center"> 항상 최신 기술 동향을 주시하고, 효율적이고 안정적인 코드를 작성하기 위해 노력합니다.</p>
 <p align="center"> 팀과 협력하여 프로젝트를 성공적으로 완수하는 것을 목표로 삼고 있으며, </p>
