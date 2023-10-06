@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90&desc=Hello%20I'm%20Aldrich%20Lee&descAlign=60&descAlignY=20&fontAlignY=40)
 
 <h3 align="center"> 안녕하세요 👋 </h3>
-<p align="center"> 논리적인 개발을 사랑하는 웹개발자 이찬우입니다!</p>
+<p align="center"> 논리적인 개발을 사랑하는 개발자 이찬우입니다!</p>
 
 
 ---
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=PostgreSQL&logoColor=white"/>
+  
 </div>
 <br>
 <div align="center">
@@ -41,6 +42,9 @@
   <img src="https://img.shields.io/badge/vercel-black?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-black?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon EC2-black?style=flat&logo=Amazon EC2&logoColor=white"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=white"/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger&logoColor=white"/>
