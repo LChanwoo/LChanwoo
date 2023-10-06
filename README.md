@@ -2,8 +2,9 @@
 
 <h3 align="center"> 안녕하세요 👋 </h3>
 <p align="center"> 논리적인 개발을 사랑하는 개발자 이찬우입니다!</p>
-
-
+<p align="center"> 
+저는 코드의 미묘한 세부 사항에서부터 전체 시스템 아키텍처까지, 소프트웨어 개발의 모든 측면에 깊이 몰두하며, 이를 통해 사용자들의 현실적인 문제를 해결하고 혁신적인 솔루션을 제공하는 데 자부심을 느낍니다. 이를 위해 항상 최신 기술 동향을 주시하고, 효율적이고 안정적인 코드를 작성하기 위해 노력하며, 팀과 협력하여 프로젝트를 성공적으로 완수하는 것을 목표로 삼고 있습니다. 끊임없는 자기 계발과 학습을 통해 더 나은 소프트웨어 개발자로 성장하고자 항상 노력하고 있으며, 이를 통해 미래의 도전과 기회에 대비하고 있습니다.
+</p>
 ---
 
 <h3 align="center"> 기술 Stack </h3>
@@ -45,6 +46,9 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/csharp-black?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-black?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/googleanalytics-black?style=flat&logo=googleanalytics&logoColor=white"/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger&logoColor=white"/>
