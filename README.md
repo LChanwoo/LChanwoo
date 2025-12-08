@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90&desc=Hello%20I'm%20Aldrich%20Lee&descAlign=60&descAlignY=20&fontAlignY=40)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90&desc=Hello%20I'm%20Aldrich%20Lee&descAlign=60&descAlignY=20&fontAlignY=40)
 
 <h3 align="center"> 안녕하세요 👋 </h3>
 <h2 align="center"> 논리적인 개발을 사랑하는 개발자 이찬우입니다!</h2>
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Next.js-yellow?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCss-blue?style=flat&logo=Tailwind CSS&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/> -->
+<!--
 </div>
 <br>
 <div align="center">
@@ -86,7 +87,7 @@ BOJ
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LChanwoo&show_icons=true&theme=monokai)
 
 </div>
-
+-->
 <!--
 **LChanwoo/LChanwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -100,7 +101,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
@@ -110,3 +111,4 @@ Here are some ideas to get you started:
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Thank%20you&fontSize=60)
+-->
